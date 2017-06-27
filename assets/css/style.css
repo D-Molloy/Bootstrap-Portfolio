@@ -1,0 +1,57 @@
+* { border: 1px solid black; }
+
+.content {
+	margin-bottom: 10%;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+.panel{
+	margin-top: 5%;
+}
+
+/*
+
+Portfolio Page
+
+*/
+
+.work {
+	position: relative;
+	width: 100%;
+}
+
+h4 {
+	z-index: 2;
+	position: absolute;
+	bottom: 0;
+}
+
+.port-img {
+	width: 100%;
+}
+
+/*
+
+Contact Page 
+
+*/
+
+.contact-form-list {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+#name,
+#email,
+#message {
+	width: 100%;
+}
+
+#message {
+	height: 200px;
+}
