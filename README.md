@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-Rewriting my portfolio site using Bootstrap.
+Assignment #2 - Rewriting my portfolio site using Bootstrap.
